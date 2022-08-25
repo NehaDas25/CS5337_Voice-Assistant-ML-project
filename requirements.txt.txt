@@ -1,0 +1,6 @@
+## Software Requirements for this project ##
+
+Python3.9
+Jupyter Notebook
+Annaconda
+git bash
